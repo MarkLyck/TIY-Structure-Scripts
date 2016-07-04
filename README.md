@@ -6,28 +6,28 @@ Example use, running
 
 Will create the following folder structure
 
-- day-15
-  - assignments
-    - project
+- **day-15**
+  - **assignments**
+    - **project**
       - .gitignore
       - README.md
-      - app
-        - scripts
-        - styles
+      - **app**
+        - **scripts**
+        - **styles**
           - main.scss
           - _variables.scss
-      - dist
+      - **dist**
         - index.html
         - app.js
-        - assets
-          - images
-          - fonts
-  - examples
-    - example1
-      - app
-        - styles
+        - **assets**
+          - **images**
+          - **fonts**
+  - **examples**
+    - **example1**
+      - **app**
+        - **styles**
           - main.scss
-      - dist
+      - **dist**
         - index.html
         - app.js
         - main.css
