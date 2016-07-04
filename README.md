@@ -58,4 +58,4 @@ If your prefered structure is different it is really easy to edit. Just open new
 Same with the HTML template, it's just normal HTML.
 
 ##Disclaimer
-But don't run this on a day that you have already created. It may or may not overwrite your files.
+Don't run this on a day that you have already created. It may or may not overwrite your files.
