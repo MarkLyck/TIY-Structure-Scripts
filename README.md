@@ -56,3 +56,6 @@ and it will create the entire folder structure for you :D
 If your prefered structure is different it is really easy to edit. Just open new_day.sh, and make the appropriate changes. It's just terminal commands. You don't have to learn Bash to fit it to your needs :)
 
 Same with the HTML template, it's just normal HTML.
+
+##Disclaimer
+But don't run this on a day that you have already created. It may or may not overwrite your files.
