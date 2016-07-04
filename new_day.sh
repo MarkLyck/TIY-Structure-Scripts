@@ -13,6 +13,7 @@ mkdir "day-$1/assignments/project"
 mkdir "day-$1/assignments/project/app"
 mkdir "day-$1/assignments/project/app/styles"
 touch "day-$1/assignments/project/app/styles/main.scss"
+touch "day-$1/assignments/project/app/styles/_variables.scss"
 mkdir "day-$1/assignments/project/app/scripts"
 
 mkdir "day-$1/assignments/project/dist"
