@@ -35,6 +35,8 @@ Will create the following folder structure
 
 The index.html is built from a template, and is already linked to app.js, main.css, JQuery and has a commented out link for FontAwesome if you want to use that as well.
 
+The gitignore file, already ignores .sass-cache and *.css.map
+
 ##Installation
 
 Place new_day.sh, html_template.sh & gitignore_template.sh in your TIY folder.
